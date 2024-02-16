@@ -1,3 +1,3 @@
-# Github_Course_Final_Project
+# github-final-project
 
 Purpose : To demonstrate Git and Github skills
